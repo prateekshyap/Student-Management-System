@@ -13,6 +13,7 @@
 6. Run: ````java Application````
 
 # user id and password details
+These can be changed according to the Institutional rules.
 
 |SERIAL_NO | DEPARTMENT_NAME                                  |  USER_ID                     |  PASSWORD                    |                       
 |----------|--------------------------------------------------|------------------------------|------------------------------|           
@@ -42,6 +43,25 @@
 |        24|Programme Officer, NSS                            | nss                          | nssigit                      |
 |        25|End                                               | end                          | endigit                      |
 
+# Sample output:
+1. Login page:
+![hostelloginhome](https://github.com/prateekshyap/Student-Management-System/blob/main/img/hostelloginhome.png)
+
+2. For all the sections in the login table apart from the section named "End" will get access to only two sections as follows. Below is a sample for "Hostel" section.
+![hosteloptions](https://github.com/prateekshyap/Student-Management-System/blob/main/img/hosteloptions.png)
+
+3. Sample for the "End" section:
+![endoptions](https://github.com/prateekshyap/Student-Management-System/blob/main/img/endoptions.png)
+Only "End" section gets the options to print the Transfer Certificate and Conduct Certificate. All other sections can only give clearance to the students.
+
+4. Sample Data Entry page:
+![dataentry](https://github.com/prateekshyap/Student-Management-System/blob/main/img/dataentry.png)
+
+5. Sample clearance page for "Hostel" section:
+![hostelclearance](https://github.com/prateekshyap/Student-Management-System/blob/main/img/hostelclearance.png)
+
+6. Sample print page:
+![printsection](https://github.com/prateekshyap/Student-Management-System/blob/main/img/printsection.png)
 
 # Found improvements?
 
