@@ -1662,7 +1662,7 @@ class AppDemo extends JFrame implements ItemListener //Class containing all the 
 		try
 		{
 		   Class.forName("oracle.jdbc.driver.OracleDriver");
-		   con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","prateekshyap","Soni1999");
+		   con = DriverManager.getConnection("jdbc:oracle:thin:@localhost:1521:xe","admin","pass");
 	    }
 	    catch(Exception e)
 	    {
